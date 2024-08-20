@@ -31,3 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Ignore all test files
+src/test/
+
+# Ignore application properties containing passwords
+src/main/resourses/application.properties
