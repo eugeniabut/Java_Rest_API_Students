@@ -1,0 +1,185 @@
+DELETE http://localhost:8080/api/v1/student/1
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.2.0.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+###
+
+POST http://localhost:8080/api/v1/student
+Content-Type: application/json
+Content-Length: 70
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.2.0.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Kim",
+  "email": "kim@gmail.com",
+  "dob": "2001-03-01"
+}
+
+###
+
+GET http://localhost:8080/api/v1/student
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.2.0.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-08-19T183525.200.json
+
+###
+
+POST http://localhost:8080/api/v1/student
+Content-Type: application/json
+Content-Length: 70
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.2.0.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Kim",
+  "email": "kim@gmail.com",
+  "dob": "2001-01-01"
+}
+
+<> 2024-08-19T144813.500.json
+
+###
+
+POST http://localhost:8080/api/v1/student
+Content-Type: application/json
+Content-Length: 70
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.2.0.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Kim",
+  "email": "kim@gmail.com",
+  "dob": "2001-01-01"
+}
+
+###
+
+POST http://localhost:8080/api/v1/student
+Content-Type: application/json
+Content-Length: 70
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.2.0.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Kim",
+  "email": "kim@gmail.com",
+  "dob": "2001-01-01"
+}
+
+###
+
+POST http://localhost:8080/api/v1/student
+Content-Type: application/json
+Content-Length: 70
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.2.0.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Kim",
+  "email": "kim@gmail.com",
+  "dob": "2001-01-01"
+}
+
+###
+
+POST http://localhost:8080/api/v1/student
+Content-Type: application/json
+Content-Length: 70
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.2.0.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Kim",
+  "email": "kim@gmail.com",
+  "dob": "2001-01-01"
+}
+
+###
+
+POST http://localhost:8080/api/v1/student
+Content-Type: application/json
+Content-Length: 70
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.2.0.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Kim",
+  "email": "kim@gmail.com",
+  "dob": "2001-01-01"
+}
+
+###
+
+POST http://localhost:8080/api/v1/student
+Content-Type: application/json
+Content-Length: 70
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.2.0.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Kim",
+  "email": "kim@gmail.com",
+  "dob": "2001-01-01"
+}
+
+###
+
+POST http://localhost:8080/api/v1/student
+Content-Type: application/json
+Content-Length: 70
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.2.0.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Kim",
+  "email": "kim@gmail.com",
+  "dob": "2001-01-01"
+}
+
+###
+
+POST http://localhost:8080/api/v1/student
+Content-Type: application/json
+Content-Length: 70
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.2.0.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Kim",
+  "email": "kim@gmail.com",
+  "dob": "2001-01-01"
+}
+
+###
+
+POST http://localhost:8080/api/v1/student
+Content-Type: application/json
+Content-Length: 70
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.2.0.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Kim",
+  "email": "kim@gmail.com",
+  "dob": "2001-04-23"
+}
+
+###
+
